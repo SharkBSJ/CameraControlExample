@@ -26,7 +26,7 @@
 <p align="center"><img src="code_4.png"><p>  
 <p align="center"><img src="code_5.png"><p>  
 
-``` Android 10(Q, API 29)부터는 deprecated되어 앞으로 호환성이나 보안에 문제될 수 있음 ```
+``` Android 10(Q, API 29)부터는 지원 중단되어 앞으로 호환성이나 보안에 문제될 수 있음 ```
 
 # 대안: 기종별 제공하는 API 사용
 * 삼성 Knox API  
