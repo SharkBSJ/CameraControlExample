@@ -15,7 +15,7 @@ public class DeviceAdministrator extends DeviceAdminReceiver {
     public void onDisabled(Context context, Intent intent) {
 
         super.onDisabled(context, intent);
-        Log.d("Camera", "Disable Camera");
+        Log.d("Device Admin", "Disable Device Admin");
 
     }
 
@@ -23,7 +23,7 @@ public class DeviceAdministrator extends DeviceAdminReceiver {
     public void onEnabled(Context context, Intent intent) {
 
         super.onEnabled(context, intent);
-        Log.d("Camera", "Enable Camera");
+        Log.d("Device Admin", "Enable Device Admin");
 
     }
 }
